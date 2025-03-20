@@ -506,10 +506,6 @@
     line-height: 22px;
   }
 
-  .column-2 {
-    padding-inline: 40px;
-  }
-
   .name {
     font-size: 18px;
   }
@@ -552,7 +548,7 @@
   }
 
   .bottombar {
-    bottom: 40px;
+    bottom: 20px;
   }
 }
 
@@ -629,10 +625,6 @@
     line-height: 18px;
   }
 
-  .column-2 {
-    padding-inline: 40px;
-  }
-
   .name {
     font-size: 16px;
   }
@@ -656,6 +648,10 @@
   .board-content {
     flex-direction: column;
     align-items: center;
+  }
+
+  .bottombar {
+    bottom: 40px;
   }
 }
 
@@ -754,7 +750,6 @@
   aside {
     width: 250px;
     height: 100%;
-    position: fixed;
     left: -250px;
     top: 0;
     z-index: 10;
@@ -762,14 +757,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    transition: 0.5s;
+    transition: all 0.3s ease-in-out;
   }
 
   aside.open {
-    display: block;
+    visibility: visible;
     left: 0;
-    transition: 0.5s;
-    overflow-y: hidden;
+    transition: all 0.3s ease-in-out;
   }
 
   .stop-scroll {
@@ -839,10 +833,6 @@
   .dropdown-title {
     display: flex;
     align-items: center;
-  }
-
-  .dropdown-menu li {
-    padding: 8px 0;
   }
 
   .desktop-menu:hover .dropdown-content {
@@ -948,8 +938,7 @@
   }
 
   .column-1 {
-    padding-right: 0;
-    padding-inline: 20px;
+    padding: 0;
   }
 
   .column-2::before {
@@ -979,10 +968,6 @@
   .do-p-secondry {
     font-size: 12px;
     line-height: 18px;
-  }
-
-  .column-2 {
-    padding-inline: 40px;
   }
 
   .testimonial-slider .slide {

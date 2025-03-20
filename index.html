@@ -73,7 +73,7 @@
                 <img src="assets/search-icon.svg" alt="search-icon" />
               </button>
               <div class="input-box" id="search-box">
-                <form action="#">
+                <form name="search" action="#">
                   <input type="text" placeholder="Search for a product..." />
                   <button type="submit">
                     <svg
@@ -151,7 +151,20 @@
             </div>
 
             <div class="currency">
-              <img id="selectedFlag" src="assets/flags/usa.png" alt="flag" />
+              <div class="my-account">
+                <a href="#">
+                  <img id="selectedFlag" src="assets/flags/usa.png" alt="flag" />
+                  <p>USD</p>
+                  <i class="fa fa-angle-down"></i>
+                </a>
+
+                <div class="dropdown-content">
+                  <a href="#"><img id="selectedFlag" src="assets/flags/ind.png" alt="flag" />INR</a>
+                  <a href="#"><img id="selectedFlag" src="assets/flags/uae.png" alt="flag" />AED</a>
+                  <a href="#"><img id="selectedFlag" src="assets/flags/uk.png" alt="flag" />GBP</a>
+                </div>
+              </div>
+              <!-- <img id="selectedFlag" src="assets/flags/usa.png" alt="flag" />
               <select name="menu" id="currency">
                 <option value="usd" data-image="/assets/flags/usa.png">
                   USD
@@ -165,7 +178,7 @@
                 <option value="inr" data-image="assets/flags/ind.png">
                   INR
                 </option>
-              </select>
+              </select> -->
             </div>
           </div>
           <!----- Navbar Desktop ----->
@@ -237,8 +250,8 @@
                   <div class="fa fa-angle-down dropdown-arrow"></div>
                 </div>
                 <ul class="dropdown-menu">
-                  <li>USD</li>
-                  <li>INR</li>
+                  <li><a href="#">USD</a></li>
+                  <li><a href="#">INR</a></li>
                 </ul>
               </li>
               <li><a href="#">Shop All</a></li>
@@ -255,8 +268,8 @@
                   <div class="fa fa-angle-down dropdown-arrow"></div>
                 </div>
                 <ul class="dropdown-menu">
-                  <li>Login</li>
-                  <li>Sign Up</li>
+                  <li><a href="#">Login</a></li>
+                  <li><a href="#">Sign Up</a></li>
                 </ul>
               </li>
               <li><a href="#">Item 1</a></li>
@@ -622,7 +635,24 @@
                 publishing software like Aldus PageMaker including versions of
                 Lorem Ipsum....
               </p>
-              <a class="do-a" href="#">Read More</a>
+              <a class="do-a" href="#"
+                >Read More
+                <svg
+                  fill="#ffffff"
+                  width="13"
+                  version="1.1"
+                  id="Layer_1"
+                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  viewBox="0 0 330 330"
+                  xml:space="preserve"
+                >
+                  <path
+                    id="XMLID_27_"
+                    d="M15,180h263.787l-49.394,49.394c-5.858,5.857-5.858,15.355,0,21.213C232.322,253.535,236.161,255,240,255 s7.678-1.465,10.606-4.394l75-75c5.858-5.857,5.858-15.355,0-21.213l-75-75c-5.857-5.857-15.355-5.857-21.213,0 c-5.858,5.857-5.858,15.355,0,21.213L278.787,150H15c-8.284,0-15,6.716-15,15S6.716,180,15,180z"
+                  />
+                </svg>
+              </a>
               <div class="divider"></div>
             </div>
             <div class="column-2">
@@ -983,7 +1013,20 @@
                       mattis metus...
                     </p>
                     <div class="blog-footer">
-                      <a class="blog-a" href="#">Read More</a>
+                      <a class="blog-a" href="#">
+                        Read More
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="5"
+                          fill="currentColor"
+                          class="bi bi-caret-right-fill"
+                          viewBox="0 0 16 16"
+                        >
+                          <path
+                            d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"
+                          />
+                        </svg>
+                      </a>
                       <div class="date">
                         <img src="assets/footer/calendar.svg" alt="calendar" />
                         <p class="date-p">15 / February / 2014</p>
@@ -1006,7 +1049,21 @@
                       mattis metus...
                     </p>
                     <div class="blog-footer">
-                      <a class="blog-a" href="#">Read More</a>
+                      <a class="blog-a" href="#"
+                        >Read More
+
+                        <svg
+                          xmlns="http://www.w3.org/2000/svg"
+                          width="5"
+                          fill="currentColor"
+                          class="bi bi-caret-right-fill"
+                          viewBox="0 0 16 16"
+                        >
+                          <path
+                            d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"
+                          />
+                        </svg>
+                      </a>
                       <div class="date">
                         <img src="assets/footer/calendar.svg" alt="calendar" />
                         <p class="date-p">15 / February / 2014</p>
@@ -1075,7 +1132,11 @@
                         </a>
                       </li>
                       <li>
-                        <a href="tel:1234567890" target="_blank" class="telephone-a">
+                        <a
+                          href="tel:1234567890"
+                          target="_blank"
+                          class="telephone-a"
+                        >
                           <img
                             src="assets/footer/telephone.svg"
                             alt="phone-icon"
@@ -1129,7 +1190,10 @@
                 </div>
               </div>
               <div class="bottombar">
-                <p>© 2018 Kids Jungle LLC. All Rights Reserved. | <a href="#">Sitemap</a></p>
+                <p>
+                  © 2018 Kids Jungle LLC. All Rights Reserved. |
+                  <a href="#">Sitemap</a>
+                </p>
               </div>
             </div>
           </div>
