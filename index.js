@@ -47,15 +47,6 @@ $(document).ready(function () {
   });
   // ----------------------------------------
 
-  // ---------- Country Dropdown ----------
-
-  $("#currency").change(function () {
-    var flagURL = $("#currency option:selected").attr("data-image");
-
-    $("#selectedFlag").attr("src", flagURL);
-  });
-  // ----------------------------------------
-
   // ---------- Hero Slick Slider ----------
   $(".hero-slider").slick({
     dots: true,
