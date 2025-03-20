@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3 5" width="3" height="5">
+	<title>Layer 3 copy</title>
+	<defs>
+		<image  width="3" height="5" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAAFAQMAAAC6v8ThAAAAAXNSR0IB2cksfwAAAAZQTFRF/5Mf/5MftoPoywAAAAJ0Uk5T/wDltzBKAAAAEElEQVR4nGNMYFRgZADiBAAFKAEG8NTSxgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 3 copy" href="#img1" x="0" y="0"/>
+</svg>

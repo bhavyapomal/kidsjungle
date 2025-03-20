@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 32" width="29" height="32">
+	<title>Vector Smart Object</title>
+	<defs>
+		<image  width="29" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAgCAMAAADZqYNOAAAAAXNSR0IB2cksfwAAAMZQTFRFYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSYqcSheeq2AAAAEJ0Uk5TADbB/P/jdwE095O6tCEQE2T+I/sWr2PwkHAb7gQLs+B+ivEwTuYCzuI5EulGlIKAqFWyKOgq3g3y1ykn34v5zR0frKGfbgAAAPVJREFUeJxjZGAEAgYYALJ/MiAAIwfjbwZkwPYNWZb7JwdCL8gYxndIssIfBd4gqRZ9L/QKSZZF+CWywRJvRJ+jy0oxgpSAxEmXZZD5xMDA/xjFZDnG959w28vEJPMAq6wiI+NdBpUHQAqbrMQb5Qc/2RXvqGKV1WK8qXGFQfe6FnZ79a/qXGAwvKyHXdb4osEZBtPzRjjcLP1S4I35WRMcspanzY4xsOAKZ/yyeE22Pgl2lQUZPsIfGvhDEn8sgAFyDNoCk+MBBhyxb3WKgUHkBQOOlINfFovJYFlYameH5B+01A7MKab7YTzZz2g5BX8uw5tDAd1LmWm20i/VAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Vector Smart Object" href="#img1" x="0" y="0"/>
+</svg>

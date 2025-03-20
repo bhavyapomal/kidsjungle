@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 12" width="130" height="12">
+	<title>Ellipse 2 copy 8</title>
+	<style>
+		.s0 { fill: none;stroke: #636363;stroke-miterlimit:100 } 
+		.s1 { fill: none;stroke: #ff931f;stroke-miterlimit:100 } 
+	</style>
+	<path id="Shape 1 copy 13" fill-rule="evenodd" class="s0" d="m11 6v-1h120v1z"/>
+	<path id="Ellipse 2 copy 8" fill-rule="evenodd" class="s1" d="m6 1c2.8 0 5 2.2 5 5 0 2.8-2.2 5-5 5-2.8 0-5-2.2-5-5 0-2.8 2.2-5 5-5z"/>
+</svg>

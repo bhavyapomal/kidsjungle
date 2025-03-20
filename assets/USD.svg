@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 12" width="17" height="12">
+	<title>Layer 2</title>
+	<defs>
+		<image width="16" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAYAAAB24g05AAAAAXNSR0IArs4c6QAAAcxJREFUKFNdks9LFFEAxz9vWyrqEHppIVDwn8hAWgoxCq+BC0XBEEEFIQTVIUo0ukewShAa4qGgInDqEJghncRLLVlSC+uhxDR2nXXnx/sRb8aZzeby3rz35vv58OYrnMsLhn8fLZM3vZ2tTnS50Nrm5/qvbM3fmQkb8Lh8jOkPhlJRMzOXo9SnmZzPcbHYHu15pXbCAWMMrvuMOKBY6mVmXseZgYRIJVJSQSsyLO0bwfzegD+b0GiA5yHOD7K8uIBwLr03x0t9MfXUKMzejhgYy/P6RpMTYweo5BQbdxKyUgqtNR0d12m1xqlUltoBk3M6IwchhNrEH8vmR+T6REY2vg9BQO7CIItfPyEcxzXlcj8n7xlmb/r0j+7nza0tDt8PqA6HdF35wubT3phsDdK7qBcKfHefJwFHhwZ48k5h9y35s1pDhd9gNYKqQh56QEo2nheH7Lk6xAtrUKtVTaFwBCmjmJIQ2rT/yXa/2dyiZ2+eR6+mEXLkmsmdPot5+Xb3TduTnoep1+NQS07nscHwOaZqPxArK8umu7uHRj7PwSCph/3HqU1qBDq29P1OhFhDypDOh3cRq86ZrIlpu9K6hVYCSBzaYyPrI/wFHY0YPshOvwoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 2" href="#img1" transform="matrix(1.063,0,0,1.091,0,0)"/>
+</svg>

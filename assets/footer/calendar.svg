@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 14" width="15" height="14">
+	<title></title>
+	<defs>
+		<image width="15" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAADwikbvAAAAAXNSR0IArs4c6QAAAT1JREFUOE+1krFKA0EQhv9/V0k6ORDSXx7hIqSxM08QTGOfPIJ5hPgIpreJ5AliZxPw7hG8PiAcdhd0Z2TUTaEXEcStdnb3m/ln/yEa1mJ9nI36T0W8+hrHc9rm5v4oabfbie3lVc5JXgpk4L2vQgiJg1up6pU7cLf2pq7r6uL0uaKBrcNWDiBtUrHnrNy+bHtcPnRSDfookJ5VQtAzBWb07EVQg+YEpvC8+1SS07O7gy0YnmzK2IbJirCpi3Es9g3WoNcmX6lTCFKSY1Wdw6GkcgagpOfElDbBK4MJTBTIAIwBzAkUClhigweNsIhkTpnE3jxcFiBF/AuhVs65ohn+sCkVyNxAq25VLYGDsxZKs+sfZP+lcrTqp2FptEpVp47cebsvgagmJG2Iuu+zvVx3Fgo1a361CBbD/mb0Bn39ApC2ETSuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>

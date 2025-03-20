@@ -1,0 +1,1602 @@
+@media (max-width: 1920px) {
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 555px;
+  }
+
+  .pop-brands {
+    background-size: cover;
+  }
+
+  /* -------- footer -------- */
+  .board-content {
+    left: 24px;
+  }
+}
+
+@media (max-width: 1800px) {
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 500px;
+  }
+
+  /* -------- Nav-1 Search -------- */
+  .input-box {
+    min-width: 320px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 64px;
+  }
+
+  .hero-p {
+    font-size: 29px;
+    margin-top: 25px;
+  }
+
+  .hero-btn {
+    font-size: 19px;
+    padding: 10px 36px;
+  }
+
+  .hero-btn img {
+    width: 21px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 40px;
+  }
+
+  /* ------ Best Sellers ------- */
+
+  .best-seller::before {
+    width: 100px;
+    height: 306px;
+  }
+
+  .best-seller::after {
+    width: 75px;
+    height: 341px;
+  }
+}
+
+@media (max-width: 1600px) {
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 390px;
+  }
+
+  .phone,
+  .my-account {
+    margin-left: 20px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 56px;
+  }
+
+  .hero-p {
+    font-size: 25px;
+    margin-top: 22px;
+  }
+
+  .hero-btn {
+    font-size: 17px;
+    padding: 8px 32px;
+    margin-top: 32px;
+  }
+
+  .hero-btn img {
+    width: 20px;
+  }
+
+  /* ------ Category ------- */
+
+  .category::before {
+    height: 100%;
+  }
+
+  .cat-h2 {
+    font-size: 46px;
+  }
+
+  .cat-h2 span {
+    margin-top: -5px;
+  }
+
+  .offer-p {
+    font-size: 25px;
+  }
+
+  .age-p {
+    font-size: 18px;
+  }
+
+  /* -------- footer -------- */
+  .board-content {
+    left: -14px;
+  }
+}
+
+@media (max-width: 1440px) {
+  /* -------- Container -------- */
+  .container {
+    max-width: 100%;
+  }
+
+  /* -------- Nav-1 -------- */
+  .logo img {
+    width: 220px;
+  }
+
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 330px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 54px;
+  }
+
+  .hero-p {
+    font-size: 25px;
+    margin-top: 20px;
+  }
+
+  .hero-p {
+    margin-top: 21px;
+  }
+
+  .hero-btn {
+    font-size: 15px;
+    padding: 8px 30px;
+    margin-top: 30px;
+  }
+
+  .hero-btn img {
+    width: 16px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 32px;
+
+    li {
+      margin: 0 3px;
+    }
+  }
+
+  /* ------ Category ------- */
+
+  .category-row {
+    padding: 10px 0 50px 0;
+  }
+
+  .cat-content {
+    top: 46%;
+  }
+
+  .category-row::before {
+    top: -36px;
+    width: 25px;
+    height: 30px;
+  }
+
+  .cat-h2 {
+    font-size: 46px;
+  }
+
+  .cat-h2 span {
+    margin-top: -5px;
+  }
+
+  .offer-p {
+    margin-top: 12px;
+    font-size: 25px;
+  }
+
+  .age-p {
+    font-size: 18px;
+  }
+
+  /* ---------- Heading ------------ */
+
+  .heading {
+    font-size: 28px;
+  }
+
+  .heading::before,
+  .heading::after {
+    width: 95px;
+    height: 11px;
+  }
+
+  .heading::before {
+    left: -108px;
+  }
+
+  .heading::after {
+    right: -108px;
+  }
+
+  /* ---------- Photos Heading ------------ */
+  .photos-heading {
+    font-size: 24px;
+  }
+
+  .photos-heading::before,
+  .photos-heading::after {
+    width: 95px;
+    height: 11px;
+  }
+
+  .photos-heading::before {
+    left: -108px;
+  }
+
+  .photos-heading::after {
+    right: -108px;
+  }
+
+  .column-2::before {
+    top: -70px;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .column-2::after {
+    bottom: -70px;
+    width: 50px;
+    height: 50px;
+  }
+
+  
+}
+
+@media (max-width: 1350px) {
+  /* -------- main-nav -------- */
+
+  .logo img {
+    width: 250px;
+  }
+
+  /* -------- main-nav -------- */
+  .main-nav-item a {
+    font-size: 14px;
+  }
+
+  .menu-toggle img {
+    width: 13px;
+  }
+
+  .main-nav-item:nth-of-type(1) a {
+    width: 130px;
+    height: 47px;
+    padding: 0;
+  }
+
+  .main-nav-item:nth-of-type(2) a,
+  .main-nav-item:nth-of-type(3) a,
+  .main-nav-item:nth-of-type(4) a,
+  .main-nav-item:nth-of-type(5) a,
+  .main-nav-item:nth-of-type(6) a,
+  .main-nav-item:nth-of-type(7) a,
+  .main-nav-item:nth-of-type(8) a {
+    min-width: 100px;
+    height: 45px;
+    padding: 0;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 48px;
+  }
+
+  .hero-p {
+    font-size: 22px;
+    margin-top: 18px;
+  }
+
+  .hero-btn {
+    font-size: 14px;
+    padding: 7px 26px;
+    margin-top: 26px;
+  }
+
+  .hero-btn img {
+    width: 15px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 28px;
+
+    li {
+      margin: 0 2px;
+    }
+  }
+
+  /* ------ Category ------- */
+  .cat-h2 {
+    font-size: 40px;
+  }
+
+  .offer-p {
+    font-size: 21.5px;
+    margin-top: 10px;
+  }
+
+  .age-p {
+    font-size: 15px;
+  }
+
+  /* -------- footer -------- */
+  .footer {
+    background-position: bottom left;
+  }
+
+  .board {
+    width: 100%;
+  }
+
+  .board-content {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .contact-info {
+    display: flex;
+    gap: 48px;
+  }
+
+  .contact-info li {
+    padding: 6px 0;
+  }
+
+  .contact-info li a {
+    color: black;
+  }
+
+  .social {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 1200px) {
+  /* -------- Logo -------- */
+
+  .logo img {
+    width: 160px;
+  }
+
+  /* -------- currency -------- */
+
+  .currency {
+    top: -10px;
+  }
+
+  /* -------- Nav-1 -------- */
+  .nav-1 {
+    padding-top: 24px;
+  }
+
+  .input-box::before {
+    width: 62px;
+    height: 100px;
+    left: -62px;
+  }
+
+  .input-box::after {
+    top: -26px;
+    right: -10px;
+    background-size: 24px 31px, 26px 32px;
+  }
+
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 320px;
+  }
+
+  .main-nav-item a {
+    font-size: 12px;
+  }
+
+  .menu-toggle img {
+    width: 12px;
+  }
+
+  .main-nav-item:nth-of-type(1) a {
+    width: 110px;
+    height: 42px;
+    padding: 0;
+  }
+
+  .main-nav-item:nth-of-type(2) a,
+  .main-nav-item:nth-of-type(3) a,
+  .main-nav-item:nth-of-type(4) a,
+  .main-nav-item:nth-of-type(5) a,
+  .main-nav-item:nth-of-type(6) a,
+  .main-nav-item:nth-of-type(7) a,
+  .main-nav-item:nth-of-type(8) a {
+    min-width: 90px;
+    height: 40px;
+    padding: 0;
+  }
+
+  /* -------- Search -------- */
+  .input-box {
+    min-width: auto;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 44px;
+  }
+
+  .hero-p {
+    font-size: 20px;
+  }
+
+  .hero-btn {
+    font-size: 13px;
+    padding: 7px 22px;
+    margin-top: 24px;
+  }
+
+  .hero-btn img {
+    width: 14px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 24px;
+
+    li {
+      margin: 0 0px;
+    }
+  }
+
+  /* ------ Category ------- */
+  .cat-content {
+    top: 45%;
+  }
+
+  .cat-h2 {
+    font-size: 38px;
+  }
+
+  .offer-p {
+    font-size: 20px;
+    margin-top: 8px;
+  }
+
+  .age-p {
+    font-size: 14px;
+  }
+
+  /* ------ What We Do ------- */
+
+  .do-heading {
+    font-size: 30px;
+    margin-bottom: 18px;
+  }
+
+  .do-p-primary,
+  .do-p-secondry {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .column-2 {
+    padding-inline: 40px;
+  }
+
+  .name {
+    font-size: 18px;
+  }
+
+  .designation {
+    font-size: 17px;
+  }
+
+  .quote {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  /* -------- footer -------- */
+
+  .footer-content{
+    justify-content: center;
+  }
+
+  .blog{
+    width: 35%;
+    text-align: left;
+  }
+  
+  .blog-slider-box {
+    margin: 0 auto;
+  }
+
+  .board {
+    width: 100%;
+  }
+
+  .board-content {
+    justify-content: space-between;
+  }
+
+  .contact-info {
+    display: flex;
+    gap: 30px;
+  }
+
+  .bottombar {
+    bottom: 40px;
+  }
+}
+
+@media (max-width: 1150px) {
+  /* -------- main-nav -------- */
+  .main-nav {
+    left: 270px;
+  }
+
+  /* -------- nav-1-------- */
+
+  .input-box::before {
+    display: none;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 40px;
+  }
+
+  .hero-p {
+    font-size: 18px;
+    margin-top: 16px;
+  }
+
+  .hero-btn {
+    font-size: 12px;
+    padding: 5px 20px;
+    margin-top: 22px;
+    gap: 6px;
+  }
+
+  .hero-btn img {
+    width: 13px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 24px;
+  }
+
+  /* ------ Category ------- */
+
+  .category-row::before {
+    top: -36px;
+    width: 20px;
+    height: 24px;
+  }
+
+  .cat-h2 {
+    font-size: 33px;
+  }
+
+  .offer-p {
+    font-size: 17.25px;
+  }
+
+  .age-p {
+    font-size: 12px;
+  }
+
+  /* ------ What We Do ------- */
+
+  .do-heading {
+    font-size: 26px;
+    margin-bottom: 14px;
+  }
+
+  .do-p-primary,
+  .do-p-secondry {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .column-2 {
+    padding-inline: 40px;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .designation {
+    font-size: 15px;
+  }
+
+  .quote {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+  /* ------ Newsletter Sign Up ------- */
+
+  .email-box {
+    max-width: 500px;
+  }
+
+  /* ------ Footer ------- */
+  .board-content {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 1024px) {
+  .logo {
+    display: flex;
+    gap: 20px;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .logo img {
+    width: 100px;
+  }
+
+  /* -------- Nav-1 -------- */
+  .nav-1 {
+    padding-top: 10px;
+  }
+
+  .phone img {
+    width: 20px;
+  }
+
+  .phone p {
+    font-size: 16px;
+  }
+
+  /* -------- Nav-1 Search -------- */
+
+  .search-toggle {
+    display: block;
+  }
+
+  .input-box {
+    opacity: 0;
+    visibility: hidden;
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .input-box input {
+    padding-right: 32px;
+  }
+
+  .input-box button {
+    right: 44px;
+  }
+
+  .nav-1.search-active .input-box {
+    position: relative;
+    max-width: 100%;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .nav-1.search-active .cart,
+  .nav-1.search-active .phone,
+  .nav-1.search-active .my-account,
+  .nav-1.search-active .search-toggle {
+    display: none;
+  }
+
+  #close-search {
+    visibility: visible;
+  }
+
+  .nav-1.search-active #close-search {
+    right: 12px;
+    font-size: 18px;
+    color: #666666;
+    padding: 0;
+  }
+
+  /* -------- .currency { -------- */
+
+  .currecy-dropdown {
+    display: block;
+  }
+
+  .currency {
+    display: none;
+  }
+
+  /* -------- main-nav -------- */
+  .main-nav {
+    display: none;
+  }
+
+  /* -------- Sidebar Mobile -------- */
+
+  aside {
+    width: 250px;
+    height: 100%;
+    position: fixed;
+    left: -250px;
+    top: 0;
+    z-index: 10;
+    background-image: url("assets/side-cloud.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 0.5s;
+  }
+
+  aside.open {
+    display: block;
+    left: 0;
+    transition: 0.5s;
+    overflow-y: hidden;
+  }
+
+  .stop-scroll {
+    overflow: hidden;
+  }
+
+  .side-nav {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 24px;
+    transition: 0.3s;
+    max-height: 100%;
+    overflow: auto;
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .side-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .my-ac {
+    display: none;
+  }
+
+  .side-nav a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #333333;
+    padding: 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 500;
+    padding-bottom: 14px;
+    border-radius: 5px 10px;
+  }
+
+  aside .close-btn:hover,
+  .side-nav a:hover {
+    color: #a0b816;
+  }
+
+  .side-nav a div {
+    float: right;
+  }
+
+  aside .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 32px;
+    font-size: 24px;
+    margin-left: 50px;
+  }
+
+  .side-nav li ul {
+    display: none;
+    position: relative;
+    left: 24px;
+    list-style: none;
+    padding-bottom: 8px;
+    width: 180px;
+    z-index: 150;
+  }
+
+  .dropdown-title {
+    display: flex;
+    align-items: center;
+  }
+
+  .dropdown-menu li {
+    padding: 8px 0;
+  }
+
+  .desktop-menu:hover .dropdown-content {
+    display: none;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 36px;
+  }
+
+  .hero-p {
+    font-size: 16px;
+    margin-top: 12px;
+  }
+
+  .hero-btn {
+    font-size: 11px;
+    padding: 5px 20px;
+    margin-top: 20px;
+    gap: 5px;
+  }
+
+  .hero-btn img {
+    width: 12px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    bottom: 20px;
+  }
+
+  /* ------ Category ------- */
+
+  .cat-h2 {
+    font-size: 30px;
+  }
+
+  .offer-p {
+    font-size: 15.75px;
+  }
+
+  /* ---------- Heading ------------ */
+
+  .heading {
+    font-size: 22px;
+  }
+
+  .heading::before,
+  .heading::after {
+    width: 80px;
+    height: 9px;
+  }
+
+  .heading::before {
+    left: -94px;
+  }
+
+  .heading::after {
+    right: -94px;
+  }
+
+  /* ---------- Photos Heading ------------ */
+  .photos-heading {
+    font-size: 20px;
+  }
+
+  .photos-heading::before,
+  .photos-heading::after {
+    width: 80px;
+    height: 9px;
+  }
+
+  .photos-heading::before {
+    left: -94px;
+  }
+
+  .photos-heading::after {
+    right: -94px;
+  }
+
+  /* ------ What We Do ------- */
+
+  .background::before {
+    top: -55px;
+    left: 20px;
+    width: 81px;
+    height: 57px;
+  }
+
+  .row {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 40px 0;
+  }
+
+  .column-1,
+  .column-2 {
+    width: 100%;
+  }
+
+  .column-1 {
+    padding-right: 0;
+    padding-inline: 20px;
+  }
+
+  .column-2::before {
+    left: 25px;
+    top: 0;
+    width: 30px;
+    height: 30px;
+  }
+
+  .column-2::after {
+    right: 25px;
+    bottom: -44px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .divider {
+    display: none;
+  }
+
+  .do-heading {
+    font-size: 26px;
+    margin-bottom: 14px;
+  }
+
+  .do-p-primary,
+  .do-p-secondry {
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .column-2 {
+    padding-inline: 40px;
+  }
+
+  .testimonial-slider .slide {
+    padding: 0;
+  }
+
+  .name {
+    font-size: 16px;
+  }
+
+  .designation {
+    font-size: 15px;
+  }
+
+  .quote {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  /* ------ Newsletter Sign Up ------- */
+
+  .newsletter::before {
+    width: 70px;
+    height: 138px;
+  }
+
+  .newsletter::after {
+    width: 80px;
+    height: 140px;
+  }
+
+  .news-p {
+    margin-top: 14px;
+    font-size: 14px;
+  }
+
+  .email-box {
+    max-width: 420px;
+  }
+
+  /* -------- Footer -------- */
+
+  .footer {
+    background-position: bottom center;
+  }
+
+  .blog {
+    width: 80%;
+  }
+
+  .blog-slider {
+    max-width: none;
+  }
+  
+  .telephone-a {
+    white-space: nowrap;
+  }
+
+}
+
+@media (max-width: 915px) {
+  /* -------- nav-1 -------- */
+
+  .phone img {
+    width: 20px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 30px;
+  }
+
+  .hero-p {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .hero-btn {
+    font-size: 9px;
+    padding: 5.5px 20px;
+    margin-top: 16px;
+    gap: 4px;
+  }
+
+  .hero-btn img {
+    width: 10px;
+  }
+
+  /* ------ Category ------- */
+
+  .category-row {
+    padding: 0 0 50px 0;
+  }
+
+  .category-row::before {
+    top: -20px;
+    width: 15px;
+    height: 18px;
+  }
+
+  .cat-h2 {
+    font-size: 22px;
+  }
+
+  .cat-h2 span {
+    margin-top: -2px;
+  }
+
+  .offer-p {
+    font-size: 12px;
+    margin-top: 6px;
+  }
+
+  .age-p {
+    font-size: 10px;
+  }
+
+  /* -------- Testimonial -------- */
+
+  .background::after {
+    top: -70px;
+    width: 90px;
+    height: 153px;
+  }
+
+  .column-1,
+  .column-2 {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  /* -------- Container -------- */
+  .container {
+    padding: 0 20px;
+  }
+
+  .logo img {
+    width: 130px;
+  }
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+  }
+
+  .menu-toggle {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .logo img {
+    width: 100px;
+  }
+
+  /* ------- Nav-1 ---------- */
+  .nav-1 {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+  }
+
+  .phone,
+  .my-account a p {
+    display: none;
+  }
+
+  .cart {
+    margin-left: 20px;
+  }
+
+  .cart svg {
+    width: 36px;
+  }
+
+  .cart p {
+    top: 23px;
+    left: 22px;
+    transform: translate(-50%, -50%);
+    font-size: 11px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 24px;
+  }
+
+  .hero-p {
+    font-size: 12px;
+    margin-top: 8px;
+  }
+
+  .hero-btn {
+    font-size: 8px;
+    padding: 4px 17px;
+    margin-top: 12px;
+    gap: 3px;
+  }
+
+  .hero-btn img {
+    width: 9px;
+  }
+
+  /* ------ Category ------- */
+
+  .cat-h2 {
+    font-size: 22px;
+  }
+
+  .cat-h2 span {
+    margin-top: -2px;
+  }
+
+  .offer-p {
+    font-size: 12px;
+    margin-top: 6px;
+  }
+
+  .age-p {
+    font-size: 10px;
+  }
+
+  /* ------ Features Product ------- */
+  .pop-brands::after,
+  .feat-product::before,
+  .feat-product::after,
+  .best-seller::before,
+  .best-seller::after {
+    display: none;
+  }
+
+  /* ---------- Photos Heading ------------ */
+  .photos-heading {
+    font-size: 18px;
+  }
+
+  .photos-heading::before,
+  .photos-heading::after {
+    width: 60px;
+    height: 6px;
+  }
+
+  .photos-heading::before {
+    left: -72px;
+  }
+
+  .photos-heading::after {
+    right: -72px;
+  }
+
+  .column-1,
+  .column-2 {
+    width: 100%;
+  }
+
+  /* ------ Newsletter Sign Up ------- */
+
+  .email-box::before,
+  .newsletter::before,
+  .newsletter::after {
+    display: none;
+  }
+
+  .email-box {
+    max-width: 300px;
+  }
+
+  .email-input {
+    font-size: 12px;
+    padding: 8px;
+  }
+
+  .btn-email {
+    padding: 14px 16px;
+    font-size: 14px;
+    letter-spacing: 0;
+  }
+
+  /* ------ Footer ------- */
+
+  .footer-content {
+    justify-content: flex-start;
+  }
+
+  .links {
+    flex-wrap: wrap;
+  }
+
+  .board {
+    width: auto;
+  }
+
+  .contact-info {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .board-content {
+    gap: 40px;
+    align-items: flex-start;
+  }
+
+}
+
+@media (max-width: 620px) {
+  /* -------- nav-1 -------- */
+  .my-account {
+    display: none;
+  }
+
+  .phone {
+    display: none;
+  }
+
+  .my-ac {
+    display: block;
+  }
+
+  .input-box {
+    min-width: auto;
+  }
+
+  .nav-1.search-active .input-box {
+    min-width: calc(100vw - 40px);
+  }
+
+  /* -------- Hero -------- */
+  .hero-content {
+    position: relative;
+    transform: translate(0, 0);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px 0 40px 0;
+  }
+
+  .hero-h1 {
+    font-size: 42px;
+    color: #507900;
+  }
+
+  .hero-p {
+    font-size: 19px;
+    margin-top: 12px;
+  }
+
+  .hero-btn {
+    margin-top: 24px;
+    padding: 6px 22px;
+    gap: 6px;
+    font-size: 12px;
+  }
+
+  .hero-btn img {
+    width: 13px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    position: absolute;
+    bottom: 190px;
+
+    li {
+      margin: 0 -4px;
+    }
+  }
+
+  /* ------ Category ------- */
+
+  .category-row {
+    gap: 16px;
+  }
+
+  .cat-h2 {
+    font-size: 17px;
+  }
+
+  .cat-h2 span {
+    margin-top: -2px;
+  }
+
+  .offer-p {
+    font-size: 9px;
+    margin-top: 6px;
+  }
+
+  .age-p {
+    font-size: 8px;
+  }
+
+  /* ---------- Photos Heading ------------ */
+  .photos-heading {
+    font-size: 16px;
+  }
+
+  .photos-heading::before,
+  .photos-heading::after {
+    width: 45px;
+    height: 5px;
+  }
+
+  .photos-heading::before {
+    left: -57px;
+  }
+
+  .photos-heading::after {
+    right: -57px;
+  }
+
+  .bottombar {
+    bottom: 60px;
+  }
+}
+
+@media (max-width: 515px) {
+  /* -------- Topbar -------- */
+  .topbar::before {
+    height: 60px;
+  }
+
+  .topbar-content a,
+  .topbar-content p {
+    font-size: 12px;
+  }
+
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 36px;
+    color: #507900;
+  }
+
+  .hero-p {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+
+  .hero-btn {
+    margin-top: 22px;
+    padding: 5.5px 18px;
+    font-size: 10px;
+  }
+
+  .hero-btn img {
+    width: 11px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    position: absolute;
+    bottom: 175px;
+  }
+
+  /* ------ Category ------- */
+
+  .category-row {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 20px 0 50px 0;
+  }
+
+  .cat-h2 {
+    font-size: 40px;
+  }
+
+  .cat-h2 span {
+    margin-top: -6px;
+  }
+
+  .offer-p {
+    font-size: 21px;
+    margin-top: 15px;
+  }
+
+  .age-p {
+    font-size: 15px;
+  }
+
+  /* ---------- Heading ------------ */
+
+  .heading {
+    margin: 32px 0;
+    font-size: 24px;
+  }
+
+  .heading::before,
+  .heading::after {
+    width: 65px;
+    height: 8px;
+  }
+
+  .heading::before {
+    left: -78px;
+  }
+
+  .heading::after {
+    right: -78px;
+  }
+
+  /* ---------- Popular Brand ------------ */
+
+  .best-slider,
+  .product-slider,
+  .brand-slider {
+    margin-top: 40px;
+  }
+
+  /* ---------- Photos Heading ------------ */
+  .photos-heading {
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .photos-heading span {
+    display: block;
+  }
+
+  .photos-heading::before,
+  .photos-heading::after {
+    display: none;
+  }
+
+  /* ------ Footer ------- */
+
+  .footer {
+    background-position: center center;
+  }
+
+  .links,
+  .footer-content {
+    gap: 40px;
+  }
+
+  .blog {
+    width: 100%;
+  }
+
+  
+}
+
+@media (max-width: 425px) {
+  /* -------- Hero -------- */
+
+  .hero-h1 {
+    font-size: 27px;
+    color: #507900;
+  }
+
+  .hero-p {
+    font-size: 12px;
+    margin-top: 8px;
+  }
+
+  .hero-btn {
+    margin-top: 20px;
+    padding: 5px 18px;
+    gap: 5px;
+    font-size: 9px;
+  }
+
+  .hero-btn img {
+    width: 10px;
+  }
+
+  /* ------ Hero Slider ------- */
+
+  .hero-slider .slick-dots {
+    position: absolute;
+    bottom: 155px;
+  }
+
+  /* ------ Category ------- */
+
+  .cat-h2 {
+    font-size: 34px;
+  }
+
+  .cat-h2 span {
+    margin-top: -4px;
+  }
+
+  .offer-p {
+    font-size: 18px;
+  }
+
+  .age-p {
+    font-size: 12px;
+  }
+
+  /* ---------- Heading ------------ */
+
+  .heading {
+    font-size: 20px;
+  }
+
+  /* ---------- Footer ------------ */
+
+  .bottombar {
+    bottom: 80px;
+  }
+
+  .bottombar p{
+    font-size: 12px;
+  }
+}
