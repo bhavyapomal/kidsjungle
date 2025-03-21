@@ -113,7 +113,7 @@ header {
 .header {
   position: relative;
   background-image: url("assets/bg-header.jpg");
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 15px 0 16px 0;
@@ -266,11 +266,13 @@ header {
 }
 
 .my-account a {
+  position: relative;
   display: flex;
   align-items: center;
   font-size: 16px;
   color: #333333;
   font-weight: 500;
+  z-index: 2;
 }
 
 .my-account a p {
@@ -284,7 +286,7 @@ header {
 }
 
 .my-account .dropdown-content {
-  top: 18px;
+  top: 16px;
   right: 0;
   display: none;
   position: absolute;
@@ -330,12 +332,11 @@ header {
   display: flex;
   align-items: center;
   gap: 4px;
-  background-color: white;
-  padding: 2px;
 }
 
 .currency .my-account p {
   margin-left: 0;
+  margin-right: 4px;
 }
 
 #selectedFlag {
@@ -424,7 +425,7 @@ aside {
   position: relative;
 }
 
-.dropdown-content {
+.desktop-menu .dropdown-content {
   position: absolute;
   top: 52px;
   display: none;
@@ -434,7 +435,7 @@ aside {
   z-index: 50;
 }
 
-.dropdown-content a {
+.desktop-menu .dropdown-content a {
   color: #333333;
   padding: 8px 0;
 }

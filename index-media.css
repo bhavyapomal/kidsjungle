@@ -839,6 +839,10 @@
     display: none;
   }
 
+  .dropdown-arrow {
+    padding-bottom: 6px;
+  }
+
   /* -------- Hero -------- */
 
   .hero-h1 {
